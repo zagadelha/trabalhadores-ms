@@ -19,6 +19,7 @@ public class Trabalhador implements Serializable {
 	private Long id;
 	private String nome;
 	private Double salario;
+	private String teste;
 
 	public Trabalhador() {
 	}
